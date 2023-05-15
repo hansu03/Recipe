@@ -2,7 +2,6 @@
 PROJECT DISCRIPTION:
 ![image](https://github.com/hansu03/Recipe/assets/114220372/39028455-fe8b-42d3-848f-7be4bea8f979)
 ![image](https://github.com/hansu03/Recipe/assets/114220372/1e1f88c8-f193-4227-b71f-1bb151d08770)
-![image](https://github.com/hansu03/Recipe/assets/114220372/c84f8fc7-e750-4804-ac47-3875beae7849)
 ![image](https://github.com/hansu03/Recipe/assets/114220372/921f336c-77bf-4c05-a4f4-94a70abca6d8)
 
 
