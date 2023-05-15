@@ -3,8 +3,8 @@
 
 
 #TABLE OF CONTENT
-
 Project Description
+<br>
 Screenshots
 Demonstration Video
 Features
@@ -16,7 +16,7 @@ Technologies Used
 PROJECT DISCRIPTION
 RECIPE is  a web application that allows users to create and manage a recipe collection. The app allow users to create, edit, and delete recipes. The app allows users to stay anonymous with randomly generated food-recipe pictures, and update or delete their recipes with ease. 
 
-# Screenshots
+ # SCREENSHOTS
 ![image](https://github.com/hansu03/Recipe/assets/114220372/2b61c98e-99c3-4498-b40a-401a2b4a474a)
 ![image](https://github.com/hansu03/Recipe/assets/114220372/39028455-fe8b-42d3-848f-7be4bea8f979)
 ![image](https://github.com/hansu03/Recipe/assets/114220372/1e1f88c8-f193-4227-b71f-1bb151d08770)
