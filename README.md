@@ -3,16 +3,12 @@
 
 
 #TABLE OF CONTENT
-< /br>
-Project Description
-< /br>
-Screenshots
-< /br>
-Demonstration Video
-< /br>
-Features
-< /br>
-Technologies Used
+• Project Description
+• Screenshots
+• Demonstration Video
+• Features
+• Technologies Used
+• Local Setup
 
 
 
