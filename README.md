@@ -2,7 +2,8 @@
 ![image](https://github.com/hansu03/Recipe/assets/114220372/2b61c98e-99c3-4498-b40a-401a2b4a474a)
 
 
-#Table of Contents
+#TABLE OF CONTENT
+
 Project Description
 Screenshots
 Demonstration Video
